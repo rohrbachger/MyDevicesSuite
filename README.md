@@ -10,12 +10,18 @@ Like it is very common you can burn a CD or create a usb boot stick, but with iP
 As you need some environment for the PXE / iPXE boot this is more for company usage then for private use:
 
 Needs:
+
 DHCP server with posibilty to set Options ( Windows DHCP / Linux DHCP)
 tfpd service on one machine in the network.
 http service somewhere reachable.
 
 Linux machine like Ubuntu to create/build once the special undionly.kpxe file.
 
+Windows 7/10 computer to create the PE Boot OS.
+
 Download the WAIK Kit for Windows 8.1 or Windows 10.
 Clone this project
+
+
+
 
