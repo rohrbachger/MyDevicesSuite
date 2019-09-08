@@ -1,4 +1,4 @@
-# MyBootMedium One blade from admins swiss knife
+# MyBootMedium - One blade from admins swiss knife
 This is a HowTo for creating Windows PE images booting from CD/USB/PXE.
 It is not too public, that the WIM format, a standard Windows can be used very easy to make backups and installations.
 There are a lots of tools available to create bootable ISO or USB like PE Builder. You can add nearly every app like browser and several other tools, they have nice frontends and are heavy loaed with functionality.
